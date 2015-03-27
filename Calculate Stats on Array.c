@@ -1,6 +1,4 @@
 // Daniel Hanson
-// Lab 1
-// djhybf
 
 #include <stdio.h>
 #include <stdlib.h>
